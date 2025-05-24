@@ -1,4 +1,4 @@
-# 📘 Tóm tắt kiến thức chính – Bài giảng “Quản lý tiến trình và luồng”
+# 📘 Tóm tắt kiến thức”
 
 ## 1. Tiến trình và luồng
 - **Tiến trình (Process):** Là chương trình đang chạy. Có không gian địa chỉ riêng biệt.
